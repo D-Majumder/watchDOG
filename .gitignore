@@ -1,0 +1,25 @@
+Python virtual environment
+
+venv/
+
+Python cache
+
+pycache/
+
+SQLite Database
+
+*.db
+*.db-journal
+
+Personal Media and Data
+
+video/
+known_faces/
+images_to_search/
+videos_to_search/
+output_matches_images/
+temp_uploads/
+
+OS-specific files
+
+.DS_Store
