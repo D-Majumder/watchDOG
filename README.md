@@ -64,8 +64,8 @@ Installing `dlib` can be difficult — make sure you have `cmake` and C++ build 
 Clone this repository and enter the project directory:
 
 ```bash
-git clone https://github.com/D-Majumder/watchDOG.git
-cd watchDOG
+git clone https://github.com/D-Majumder/watchdog.git
+cd watchdog
 ```
 
 ### Usage
